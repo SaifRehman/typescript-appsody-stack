@@ -1,0 +1,1 @@
+# typescript-appsody-stack
